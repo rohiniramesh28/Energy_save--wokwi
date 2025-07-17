@@ -11,7 +11,7 @@ ESP32: The central microcontroller that processes inputs from both sensors and c
 Energy Efficiency: The light remains off when no motion is detected or when there is sufficient natural light.
 
 Components Required:
-ESP32 Development Board
+ESP32 Development Boar
 
 PIR Motion Sensor
 
