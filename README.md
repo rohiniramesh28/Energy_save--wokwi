@@ -39,6 +39,6 @@ Upload the code to the ESP32 board using the Arduino IDE.
 
 Monitor the Serial Output for debugging and to check sensor readings.
 
-Code:
+Code
 The project utilizes the Arduino IDE to write and upload the code. The code reads the sensor values and controls the LED accordingly.
 
